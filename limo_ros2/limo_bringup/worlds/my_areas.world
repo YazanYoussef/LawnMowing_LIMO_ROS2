@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+<world name="square_obstacles">
+  <include>
+    <uri>model://ground_plane</uri>
+  </include>
+  <model name="square_0">
+    <pose>4.458184612874109 6.263375006316379 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>2.1168008894007846 2.1168008894007846 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_1">
+    <pose>7.160950192606447 4.8716044696399505 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>2.1659644078562916 2.1659644078562916 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_2">
+    <pose>1.7159638432527122 3.4224204834898098 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.838360479674053 1.838360479674053 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_3">
+    <pose>8.15102112538327 7.873126144966194 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.573543672975636 1.573543672975636 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_4">
+    <pose>6.44501642040106 1.9310490626569687 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>2.887704191806634 2.887704191806634 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_5">
+    <pose>1.6143537138248398 7.006386045680034 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>2.02497449873413 2.02497449873413 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_6">
+    <pose>8.994683550826313 2.1154170964528554 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.8575661060562907 1.8575661060562907 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_7">
+    <pose>1.8814461037753194 0.9228270719644037 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.687037712311499 1.687037712311499 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_8">
+    <pose>5.006358893915305 8.366797026826934 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.8111321192383651 1.8111321192383651 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_9">
+    <pose>1.9653308810541206 9.08507587544755 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.6335323778699467 1.6335323778699467 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_10">
+    <pose>3.883363277137115 1.5723362143864172 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.8518545060706633 1.8518545060706633 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <model name="square_11">
+    <pose>3.8551721233697736 4.1069555921026915 0 0 0 0</pose>
+    <static>true</static>
+    <link name="link">
+      <visual name="visual">
+        <geometry>
+          <box><size>1.733726271461347 1.733726271461347 0.1</size></box>
+        </geometry>
+        <material>
+          <ambient>0.2 0.8 0.2 0.5</ambient>
+        </material>
+      </visual>
+    </link>
+  </model>
+  <include>
+    <uri>model://limo</uri>
+    <pose>1 1 0.1 0 0 0</pose>
+  </include>
+</world>
+</sdf>
